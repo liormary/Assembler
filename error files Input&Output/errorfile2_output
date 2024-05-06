@@ -1,0 +1,40 @@
+
+ file name: errors2.as
+
+	error - line number 1 :missing space after command type
+
+	error - line number 2 :illegal comma after command type
+
+	error - line number 3 :illegal comma after command type
+
+	error - line number 4 :multiple commas between command operands
+
+	error - line number 5 :multiple commas between command operands
+
+	error - line number 6 :missing operands to command
+
+	error - line number 7 :extraneous text after command/directive
+
+	error - line number 8 :illegal value register
+
+	error - line number 9 :illegal value register
+
+	error - line number 10 :missing operands to command
+
+	error - line number 11 :missing operands to command
+
+	error - line number 12 :illegal register name
+
+	error - line number 13 :immed illegal value
+
+	error - line number 14 :extraneous text after command/directive
+
+	error - line number 16 :immed illegal value
+
+	error - line number 17 :immed illegal value
+
+	error - line number 18 :immed illegal value
+
+	error - line number 19 :missing space after command type
+
+	error - line number 20 :illegal value register

@@ -1,0 +1,28 @@
+
+ file name: errors3.as
+
+	error - line number 5 :missing label to .extern 
+
+	error - line number 8 :label already exists as a local -can't set as an external
+
+	error - line number 9 :illegal label-illegal start letter
+
+	error - line number 10 :illegal comma after directive type
+
+	error - line number 11 :multiple commas between arguments
+
+	error - line number 12 :missing comma between arguments
+
+	error - line number 13 :illegal argument
+
+	error - line number 14 : illegal argument value
+
+	error - line number 15 : illegal argument value
+
+	error - line number 16 :illegal comma in the end
+
+	error - line number 17 :missing arguments to directive 
+
+	error - line number 18 : illegal argument value
+
+	error - line number 19 : illegal argument value

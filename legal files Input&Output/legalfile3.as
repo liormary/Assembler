@@ -1,0 +1,34 @@
+
+label7: add $1,$2,$3
+label8: sub $1,$2,$3
+label9: and $1,$2,$3
+label10: or $1,$2,$3
+label11: nor $1,$2,$3
+label12: move $1,$2
+label13: mvhi $1,$2
+label14: mvlo $1,$2
+label15: addi $1,-3,$3
+label16: subi $1,-3,$3
+label17: andi $1,-3,$3
+label18: ori $1,-3,$3
+label19: nori $1,-3,$3
+label20: bne $1,$3,label1
+label21: beq $1,$3,label2
+label22: blt $1,$3,label3
+label23: bgt $1,$3,label4
+label24: lb $1,-3,$3
+label25: sb $1,-3,$3
+label26: lw $1,-3,$3
+label27: sw $1,-3,$3
+label28: lh $1,-3,$3
+label29: lh $1,-3,$3
+label30: jmp $1
+label31: jmp label2
+label32: la label3
+label33: call label4
+label34: stop 
+label1: .db 1,-6
+label2: .dh 1,-7
+label3: .dw 1,-8
+label4: .asciz ""
+label6: .extern label40

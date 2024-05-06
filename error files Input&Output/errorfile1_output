@@ -1,0 +1,18 @@
+
+ file name: errors1.as
+
+	error - line number 1 :illegal register name
+
+	error - line number 2 :label insert without command/directive
+
+	error - line number 3 :illegal comma in the end
+
+	error - line number 4 : .asicz argument passed is not a string
+
+	error - line number 5 :illegal label-illegal letter
+
+	error - line number 8 :illegal register name
+
+	error - line number 9 :illegal label-illegal start letter
+
+	error - line number 11 :label already exists as a local -can't set as an external
